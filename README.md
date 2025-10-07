@@ -1,3 +1,13 @@
 Challlenge alx  :
 
-Define the database models, create serializers for API data representation, and implement a management command to seed the database.
+
+
+## Objectif
+Définir les modèles, créer les serializers et implémenter une commande de seed pour initialiser la base de données avec des données exemples.
+
+## Installation
+```bash
+git clone 
+cd alx_travel_app_0x00
+pip install -r requirements.txt
+python manage.py migrate
